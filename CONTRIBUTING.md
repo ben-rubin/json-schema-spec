@@ -2,7 +2,7 @@
 
 ## Issues
 
-Issues should identify an problem, enhancement, or use case; and propose some course of action for the draft. For alternate support channels, [see the json-schema.org website](http://json-schema.org/) or the [jsonschema tag on stackoverflow](https://stackoverflow.com/tags/jsonschema).
+Issues should identify a problem, enhancement, or use case, and propose some course of action for the draft. For alternate support channels, [see the json-schema.org website](http://json-schema.org/) or the [jsonschema tag on stackoverflow](https://stackoverflow.com/tags/jsonschema).
 
 ## Milestones
 
